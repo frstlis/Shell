@@ -1,2 +1,2 @@
 # Shell
-LinuxShell And So On
+LinuxShell By ArchLinux And So On
